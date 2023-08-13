@@ -1,0 +1,52 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+h2{
+  color:lightskyblue;
+}
+h1 {
+  color:khaki;
+}
+p{
+ font-size: small;
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ color:khaki;
+
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80px;
+  margin: 0 auto;
+}
+.playerCard{
+  padding: 30px;
+}
+.playerCard img{
+  height: 200px;
+}
+.linkButton{
+border: 1px gold;
+padding: 10px;
+}
+.single-player img{
+  width: 100px;
+}
