@@ -3,7 +3,7 @@
   font-weight: 400;
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color:deepskyblue;
+  background-color:black;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -14,6 +14,6 @@
 
 a {
   font-weight: 500;
-  color:gold;
+  color:orange;
   text-decoration: inherit;
 }
